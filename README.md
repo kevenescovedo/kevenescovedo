@@ -37,7 +37,19 @@ SOBRE MIM:
 - 😎 As tecnologias que já trabalhei são: Firebase(Firestore,Auth, ML etc..) , MySQL, MongoDB, Entity Framework, Git
 - 💬 Sobre mim: Sou uma pessoa que gosta de ajudar os outros e sou divertido 
 - 📫 O que eu gostaria de Aprender : Java, SpringBoot, Angular, TypeScrpt Asembly
-- 
+</br>
+
+<div >
+    <a href="https://www.youtube.com/channel/UCgkm-Y1Gkus8CQyvDf9Ha2Q?app=desktop" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kevenescovedo2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "kevenescovedo1916@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/keven-escovedo-5b59b118b?trk=people_directory" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+
+
 
 
 
