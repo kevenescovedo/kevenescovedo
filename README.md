@@ -32,7 +32,7 @@ SOBRE MIM:
 - 👨‍🏫 Já foi(Sou) Monitor de Engenharia de Software e Algoritmo e lógica de programação
 - 🔭 Atualmente estou desenvolvendo um aplicativo de rede social
 - 👨‍🏫 Atualmente estou aprofunndando meus conhecimentos em Javascript e Flutter, Node js, React e Next js
-- 👨‍🏫 Atualmente estudando Análise e desenvolvimento de sistemas na Fatec, estou no quinto termo 
+- 👨‍🏫 Atualmente estudando Análise e desenvolvimento de sistemas na Fatec, estou no sexto termo  (ultimo termo)
 - 😎 As linguagens que já trabalhei são: PHP, Javascript, C#, Python, Dart, HTML, Css, SQL
 - 😎 As tecnologias que já trabalhei são: Firebase(Firestore,Auth, ML etc..) , MySQL, MongoDB, Entity Framework, Git
 - 💬 Sobre mim: Sou uma pessoa que gosta de ajudar os outros e sou divertido 
