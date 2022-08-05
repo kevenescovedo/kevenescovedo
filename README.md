@@ -21,6 +21,7 @@
   <img align="center" alt="keven-Supabase" height="20" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=#4cc38a">
   <img align="center" alt="keven-Firebase" height="20" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img align="center" alt="keven-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="keven-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/java-original.svg">
   <img align="center" alt="keven-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="20" alt="keven-Vercel"src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
  
@@ -29,11 +30,11 @@
   
 SOBRE MIM:
 - 💰 Meu objetivo na progamação é ficar rico 🤣🤣
-- 👨‍🏫 Já foi(Sou) Monitor de Engenharia de Software e Algoritmo e lógica de programação
+- 👨‍🏫 Já foi  Monitor de Engenharia de Software e Algoritmo e lógica de programação
 - 🔭 Atualmente estou desenvolvendo um aplicativo de rede social
-- 👨‍🏫 Atualmente estou aprofunndando meus conhecimentos em Javascript e Flutter, Node js, React e Next js
+- 👨‍🏫 Atualmente estou aprofunndando meus conhecimentos em Javascript, Java, Flutter, Node js, React e Next js
 - 👨‍🏫 Atualmente estudando Análise e desenvolvimento de sistemas na Fatec, estou no sexto termo  (ultimo termo)
-- 😎 As linguagens que já trabalhei são: PHP, Javascript, C#, Python, Dart, HTML, Css, SQL
+- 😎 As linguagens que já trabalhei são: PHP, Javascript, Java, C#, Python, Dart, HTML, Css, SQL
 - 😎 As tecnologias que já trabalhei são: Firebase(Firestore,Auth, ML etc..) , MySQL, MongoDB, Entity Framework, Git
 - 💬 Sobre mim: Sou uma pessoa que gosta de ajudar os outros e sou divertido 
 - 📫 O que eu gostaria de Aprender : Java, SpringBoot, Angular, TypeScrpt Asembly
