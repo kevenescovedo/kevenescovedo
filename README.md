@@ -21,7 +21,7 @@
   <img align="center" alt="keven-Supabase" height="20" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=#4cc38a">
   <img align="center" alt="keven-Firebase" height="20" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img align="center" alt="keven-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="keven-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/java-original.svg">
+  <img  align="center" alt="java-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="keven-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="20" alt="keven-Vercel"src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
  
