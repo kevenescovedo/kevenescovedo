@@ -29,11 +29,11 @@
   </br>
   
 SOBRE MIM:
-- 💰 Meu objetivo na progamação é ficar rico 🤣🤣
+- 👨‍🏫 Formado em análise e desenvolvimento de sistemas
+- 💰 Meu objetivo na progamação é ficar rico 🤣🤣,mentira busco criar soluções tecnologicas para resolver problemas reais na vida das pessoas
 - 👨‍🏫 Já foi  Monitor de Engenharia de Software e Algoritmo e lógica de programação
 - 🔭 Atualmente estou desenvolvendo um aplicativo de rede social
 - 👨‍🏫 Atualmente estou aprofunndando meus conhecimentos em Javascript, Java, Flutter, Node js, React e Next js
-- 👨‍🏫 Atualmente estudando Análise e desenvolvimento de sistemas na Fatec, estou no sexto termo  (ultimo termo)
 - 😎 As linguagens que já trabalhei são: PHP, Javascript, Java, C#, Python, Dart, HTML, Css, SQL
 - 😎 As tecnologias que já trabalhei são: Firebase(Firestore,Auth, ML etc..) , MySQL, MongoDB, Entity Framework, Git
 - 💬 Sobre mim: Sou uma pessoa que gosta de ajudar os outros e sou divertido 
