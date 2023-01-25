@@ -26,7 +26,7 @@
   <img align="center" height="20" alt="keven-Vercel"src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img align="center" height="20" alt="keven-react"src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
   <img align="center" height="20" alt="keven-parse"src="https://parseplatform.org/img/logo.svg">
- 
+    <img align="center" height="20" alt="keven-chatgpt-3"src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png">
 </div>
   </br>
   
